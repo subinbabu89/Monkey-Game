@@ -20,7 +20,7 @@ public final class Constants {
 	/**
 	 * Total number of blocks for the game grid
 	 */
-	public static final int NO_OF_BLOCKS = 20;
+	public static final int NO_OF_BLOCKS = 25;
 
 	/**
 	 * Timer number for individual bananas
